@@ -174,16 +174,7 @@ GET http://localhost:5000/api/tasks
 
 ---
 
-# 📷 Project Output
-
-- Add Task Functionality
-- Delete Task Functionality
-- Dynamic Task Count
-- MongoDB Data Storage
-
----
-
-# 👩‍💻 Author
+# Author
 
 **Zarmeen Rasool**
 
