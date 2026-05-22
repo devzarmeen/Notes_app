@@ -1,4 +1,4 @@
-# 📝 Task Manager App (MERN Stack)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7269e977-d187-421a-8d00-0662ca181e33" /># 📝 Task Manager App (MERN Stack)
 
 A simple and modern Full-Stack MERN Task Manager application built using React, Node.js, Express.js, and MongoDB.
 
@@ -173,6 +173,8 @@ GET http://localhost:5000/api/tasks
 - Interactive Hover Effects
 
 ---
+# Demo Video Link: 
+https://youtu.be/k5N738LL5X4
 
 # Author
 
